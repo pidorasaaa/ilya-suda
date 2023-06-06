@@ -13,7 +13,7 @@ async def command_start(message):
     await menu(message)
 @dp.message_handler(text='📋 Главное меню')
 async def menu(message):
-    btnProducts = KeyboardButton('🏷️Товары')
+    btnProducts = KeyboardButton('🏷️Товары')asdasd
     btnChat = KeyboardButton('💭Чат')
     btnRules = KeyboardButton('🫡Правила')
     btnProfile = KeyboardButton('🐥Профиль')
