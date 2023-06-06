@@ -9,5 +9,3 @@ responce = requests.get(f"https://anypay.io/api/payments/{API_ID}", params={
     "sign":sign.hexdigest(),
     "project_id": project_id,
 })
-143145141414141
-313134145ё11ё511
