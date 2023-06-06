@@ -7,7 +7,7 @@ import asyncio
 
 
 
-TOKEN = '6295999138:AAGDf_5qz3wJx5oaBtpjZxLV1BQzduWF5mE'
+TOKEN = '6201397926:AAEVqIruMqdy5TmTvRtQ8uR2ueOKtaPtd1o'
 #--------------FSM--------------
 #------------------------------
 bot = Bot(token=TOKEN)
